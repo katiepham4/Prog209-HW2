@@ -1,0 +1,26 @@
+h1{
+				background-image: linear-gradient(to right, purple, yellow);
+				font-family: 'Times New Roman';
+			}
+			
+			#section1{
+				background-image: linear-gradient(to right, purple, yellow);
+				font-family: 'Comic Sans';
+				transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+				padding: 20px;
+			}
+			
+			#section2{
+				background-image: linear-gradient(to right, yellow, purple);
+				color: black;
+				font-family: 'Times New Roman', Times, serif;
+				padding: 20px;
+			}
+			
+			#button1 {
+				border-radius: 30%;
+				color: white;
+				width: 70px;
+				height: 30px;
+				border: 2pz solid white;
+			}
